@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300;400&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    width: 1438px;
+    height: 769px;
+    text-align: center;
+    background-image: url(..\IMG\bg.jpg);
+}
+.logo {
+    left: -0.08%;
+    right: 89.6%;
+    top: 3.64%;
+    bottom: 7.27%;
+}
+#title_logo{
+    font-size: 30px;
+}
+#title_header{
+    font-family: BebasNeueBold;
+    font-size: 40px;
+    line-height: 70px;
+    height: 60px;
+    letter-spacing: 5.70937px;
+}
+#text{
+    font-size: 16px;
+    line-height: 22px;
+}
